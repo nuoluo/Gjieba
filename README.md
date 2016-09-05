@@ -1,6 +1,6 @@
 Gjieba
 ========
-GPU分词
+GPU分词进行中
 
 
 jieba
